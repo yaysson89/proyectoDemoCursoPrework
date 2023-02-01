@@ -1,0 +1,5 @@
+{
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.NoBrowser": true,
+    "liveServer.settings.CustomBrowser": "chrome"
+}
